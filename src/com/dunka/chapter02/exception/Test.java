@@ -2,7 +2,7 @@ package com.dunka.chapter02.exception;
 
 /**
  * @Author Dunka
- * @Description //TODO
+ * @Description 出现异常，锁自动释放
  * @Date 15:54   2019/8/8
  * @ClassName Test
  */
