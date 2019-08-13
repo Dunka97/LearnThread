@@ -2,7 +2,7 @@ package com.dunka.chapter02.innerClass2;
 
 /**
  * @Author Dunka
- * @Description //TODO
+ * @Description 本实验测试同步代码块synchronized(class2)对class2上锁后，其他线程只能以同步的方式调用class2的静态同步方法
  * @Date 16:53   2019/8/12
  * @ClassName Run
  */
